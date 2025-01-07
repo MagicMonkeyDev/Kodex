@@ -1,11 +1,15 @@
 # Kodex 🤖
 
+<div align="center">
+  <img src="(https://i.imgur.com/ohypjHp.png)" alt="Eliza Banner" width="100%" />
+</div>
+
 ## ✨ Features
-🛠️ Multiple AI LLM Language Processing Compatability
-🔗 Support for every model (Llama, Dolphin, OpenAI, Anthropic, etc.)
-👥 Multi-agent and room support
-🚀 Learn-To-Earn! Help Shape the future of AI while you earn!
-📦 Just works!
+- 🛠️ Multiple AI LLM Language Processing Compatability
+- 🔗 Support for every model (Llama, Dolphin, OpenAI, Anthropic, etc.)
+- 👥 Multi-agent and room support
+- 🚀 Learn-To-Earn! Help Shape the future of AI while you earn!
+- 📦 Just works!
 
 ## 🎯 Use Cases
 
